@@ -1,0 +1,5 @@
+{
+  "name": "Jira Monitor",
+  "description": "Aplicación para monitorizar y clasificar usuarios de Jira según su última actividad de inicio de sesión.",
+  "requestFramePermissions": []
+}
